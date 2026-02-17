@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Sparrow Alexey
+- 👋 Hi, my name is Alex
 - 👀 I’m interested in robitics
 - 🌱 I’m currently learning cpp and full stack
 - 💞️ I’m looking to collaborate on intresting projects
