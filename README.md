@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Sparrow Alexey
 - 👀 I’m interested in robitics
 - 🌱 I’m currently learning cpp and full stack
-- 💞️ I’m looking to collaborate on intrest projeckts
+- 💞️ I’m looking to collaborate on intresting projects
 - 📫 How to reach me you may write me on a41456831@gmail.com or reach me on telegram by tag @SparrowAlexey, also I have a discord my tag is alesp8406
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
